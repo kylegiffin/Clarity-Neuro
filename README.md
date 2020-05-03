@@ -1,6 +1,6 @@
 # Clarity Neuro: Original Code for EEG Reading & Analysis
 
-** Version 1.0.0 **
+**Version 1.0.0**
 
 The goal at present is to write code which can effectively read, analyze, manipulate, interpolate, reject, and smooth out EEG data. These actions are the absolute essentials required for proper handling of EEG data. This means are code should be able to open an EEG data file, interpolate electrodes that do not represent neural activity, reject noisy epochs of data, and smooth out signals so we achieve the first step of any EEG preprocessing analysis, which is to reduce noise.
 
